@@ -36,7 +36,7 @@ function BubbleSort2(array) {
     }
 }
 
-let arr = new Array(1, 2, 3, 5, 8, 10, 9);
+let arr = new Array(3, 1, 2, 8, 5, 10, 1, 9);
 
 BubbleSort2(arr);
 
