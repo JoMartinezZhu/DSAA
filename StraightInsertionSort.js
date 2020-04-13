@@ -108,4 +108,4 @@ let arr = new Array(7, 3, 2, 8, 5, 10, 1, 9);
 
 StraightInsertionSortMid(arr);
 
-console.log('result :', arr);
+console.log("result :", arr);
